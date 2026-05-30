@@ -7,7 +7,7 @@ public class HitungGaji {
         Scanner input = new Scanner(System.in);
 
         double[] arrayGaji = {5000000, 6500000, 9500000};
-        double[] arrayLembur = {0.30, 0.32, 0.34, 0.36, 0,38};
+        double[] arrayLembur = {0.30, 0.32, 0.34, 0.36, 0.38};
 
         // Deklarasi
         String golongan;
